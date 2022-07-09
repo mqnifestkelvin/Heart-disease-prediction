@@ -1,1 +1,2 @@
-# Heart-disease-prediction
+# Heart-disease-prediction 
+This project focuses on the use of medical related data in giving valuable insights into the causes of heart disease and its relationship with some of the features within the data set. After drawing valuable insight and performing exploratory data analysis (EDA), The data would be fed into several machine learning models and the model with the best prediction from the model used for future heart related predictions.
